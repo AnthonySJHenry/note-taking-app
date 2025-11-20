@@ -30,7 +30,7 @@ export default async function Home() {
             Get Started
           </Link>
           <a
-            href="https://github.com"
+            href="https://github.com/AnthonySJHenry/note-taking-app"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-md border border-zinc-300 px-6 py-3 text-sm font-medium text-zinc-700 hover:bg-zinc-50 dark:border-zinc-700 dark:text-zinc-300 dark:hover:bg-zinc-800"
