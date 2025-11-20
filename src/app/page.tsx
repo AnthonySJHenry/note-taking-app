@@ -16,7 +16,7 @@ export default async function Home() {
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 px-4 dark:bg-black">
       <main className="flex max-w-2xl flex-col items-center text-center">
         <h1 className="mb-6 text-5xl font-bold tracking-tight text-black dark:text-zinc-50">
-          Welcome to Anthony's Portfolio
+          Welcome to Anthony's Note-Taking App
         </h1>
         <p className="mb-8 text-xl text-zinc-600 dark:text-zinc-400">
           A full-stack Next.js application with authentication and note-taking
