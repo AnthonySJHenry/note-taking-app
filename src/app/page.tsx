@@ -32,12 +32,18 @@ export default async function Home() {
           <a
             href="https://github.com/AnthonySJHenry/note-taking-app"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="nofollow"
             className="rounded-md border border-zinc-300 px-6 py-3 text-sm font-medium text-zinc-700 hover:bg-zinc-50 dark:border-zinc-700 dark:text-zinc-300 dark:hover:bg-zinc-800"
           >
             View Source
           </a>
-          <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="/linkedin.svg" alt="LinkedIn"></a>
+          <a
+            href="https://www.linkedin.com/in/anthonysjhenry/"
+            target="_blank"
+            rel="nofollow"
+          >
+            <img src="/linkedin.svg" alt="LinkedIn" />
+          </a>
         </div>
         <div className="mt-16 rounded-lg border border-zinc-200 bg-white p-8 dark:border-zinc-800 dark:bg-zinc-900">
           <h2 className="mb-4 text-2xl font-semibold text-black dark:text-zinc-50">
