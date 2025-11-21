@@ -50,7 +50,7 @@ export default async function Home() {
             <li>✓ Built with Next.js 16 App Router</li>
           </ul>
           <Link
-            className="place-content-end content-center justify-center space-y-4 flex mt-6"
+            className="place-content-end content-center justify-center space-y-4 flex"
             href="https://www.linkedin.com/in/anthonysjhenry/"
             target="_blank"
             rel="nofollow"
