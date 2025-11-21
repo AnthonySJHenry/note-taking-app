@@ -53,9 +53,12 @@ export default async function Home() {
             href="https://www.linkedin.com/in/anthonysjhenry/"
             target="_blank"
             rel="nofollow"
-            className="place-content-center space-y-2"
           >
-            <img src="/linkedin.svg" alt="LinkedIn" />
+            <img
+              className="place-content-center space-y-2"
+              src="/linkedin.svg"
+              alt="LinkedIn"
+            />
           </Link>
         </div>
       </main>
