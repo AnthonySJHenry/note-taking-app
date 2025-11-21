@@ -37,13 +37,13 @@ export default async function Home() {
           >
             View Source
           </a>
-          <a
+          <Link
             href="https://www.linkedin.com/in/anthonysjhenry/"
             target="_blank"
             rel="nofollow"
           >
             <img src="/linkedin.svg" alt="LinkedIn" />
-          </a>
+          </Link>
         </div>
         <div className="mt-16 rounded-lg border border-zinc-200 bg-white p-8 dark:border-zinc-800 dark:bg-zinc-900">
           <h2 className="mb-4 text-2xl font-semibold text-black dark:text-zinc-50">
