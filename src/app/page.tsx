@@ -50,15 +50,12 @@ export default async function Home() {
             <li>✓ Built with Next.js 16 App Router</li>
           </ul>
           <Link
+            className="place-content-end content-center justify-center space-y-4"
             href="https://www.linkedin.com/in/anthonysjhenry/"
             target="_blank"
             rel="nofollow"
           >
-            <img
-              className="place-content-center space-y-2"
-              src="/linkedin.svg"
-              alt="LinkedIn"
-            />
+            <img src="/linkedin.svg" alt="LinkedIn" />
           </Link>
         </div>
       </main>
